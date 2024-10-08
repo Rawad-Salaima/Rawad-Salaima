@@ -25,3 +25,21 @@ div{
     background-color:greenyellow;
     border: 10px solid rgba(210, 105, 30, 0.521);
 }
+
+#Boston{
+    font-family: Verdana;
+    background-color:gold;
+    border: 10px solid rgba(210, 105, 30, 0.521);
+}
+
+#Dachshund{
+    font-family: Verdana;
+    background-color:violet;
+    border: 10px solid rgba(210, 105, 30, 0.521);
+}
+
+#Miniature{
+    font-family: Verdana;
+    background-color:blanchedalmond;
+    border: 10px solid rgba(210, 105, 30, 0.521);
+}
