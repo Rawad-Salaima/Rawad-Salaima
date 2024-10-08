@@ -13,3 +13,15 @@ div{
 *{
     line-height: 1.5;
 }
+
+#Basenji{
+    font-family: Verdana;
+    background-color: chocolate;
+    border: 10px solid rgba(118, 64, 26, 0.521);
+}
+
+#Bichon{
+    font-family: Verdana;
+    background-color:greenyellow;
+    border: 10px solid rgba(210, 105, 30, 0.521);
+}
